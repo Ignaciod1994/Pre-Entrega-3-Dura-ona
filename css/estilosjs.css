@@ -1,0 +1,21 @@
+body {
+
+  background-image:url(/Users/USUARIO/Desktop/PreEntrega3-Durañona/imagenes/imagendeprestamo.png);
+  text-align: center;
+  padding-top: 2%;
+}
+
+input {
+
+  border-radius: 5%;
+}
+
+form {
+
+  width: 550px;
+  margin: 0 auto;
+  margin-top: 80px;
+  border:  2px;
+
+}
+
